@@ -7,4 +7,7 @@
     <string name="apellido">Lastname</string>
     <string name="nombre">Name</string>
     <string name="bienvenido">Welcome</string>
+    <string name="parte_saludo2">welcome to this app !!!</string>
+    <string name="error_1">Please Type your name</string>
+    <string name="error_2">Please Type your Lastname</string>
 </resources>
